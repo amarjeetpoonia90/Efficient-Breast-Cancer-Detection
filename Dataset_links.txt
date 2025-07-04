@@ -1,0 +1,25 @@
+
+https://www.kaggle.com/datasets/kmader/mias-mammography?select=all-mias  (Used Dataset_1)
+
+https://www.kaggle.com/code/kerneler/starter-mini-ddsm-f0660d11-1/data
+
+https://github.com/hrsht-13/Breast-Cancer-Detection  (Used Dataset_2)
+
+The dataset With labels of:
+
+1. Density
+The levels of density are: A: (1) Almost entirely fatty indicates that the breasts are almost entirely composed of fat. About 1 in 10 women has this result. B: (2) Scattered areas of fibroglandular density indicates there are some scattered areas of density, but the majority of the breast tissue is nondense. About 4 in 10 women have this result. C: (3) Heterogeneously dense indicates that there are some areas of nondense tissue, but that the majority of the breast tissue is dense. About 4 in 10 women have this result. D: (4) Extremely dense indicates that nearly all of the breast tissue is dense. About 1 in 10 women has this result.
+
+2. Tumour
+A: Benign (noncancerous) B: Malignant (cancerous)
+
+Classes:
+
+Density1Benign
+Density2Benign
+Density3Benign
+Density4Benign
+Density1Malignant
+Density2Malignant
+Density3Malignant
+Density4Malignant
